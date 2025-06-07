@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sprow-dev
+- 👀 I’m interested in making garbage on the web
+- 🌱 I’m currently improving my python and web dev skills
+- 💞️ I’m looking to collaborate on nothing whatsoever
+- 📫 How to reach me: you don't
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: facts are not fun
