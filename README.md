@@ -2,6 +2,8 @@
 - 👀 I’m interested in making garbage on the web
 - 🌱 I’m currently improving my python and web dev skills
 - 💞️ I’m looking to collaborate on nothing whatsoever
-- 📫 How to reach me: you don't
+- 📫 How to reach me: email me on my profiles public email and wait about 3-6 months for a reply.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: facts are not fun
+- ⚡ Fun fact: I renewed my domain for 4 years because I am lazy.
+- I also made a sketchy AI-generated analytics page to steal 1. your IP address 2. your browser and version 3. your OS.
+- Cheeck it out at [analytics.sprow.dev](https://analytics.sprow.dev).
