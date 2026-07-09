@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @sprow-dev
-- 👀 I’m interested in making garbage on the web
-- 🌱 I’m currently improving my python and web dev skills
-- 💞️ I’m looking to collaborate on nothing whatsoever
-- 📫 How to reach me: email me on my profilels public email and wait about 3-6 months for a reply.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I renewed my domain for 4 years because I am lazy.
+I make garbage and post here.
